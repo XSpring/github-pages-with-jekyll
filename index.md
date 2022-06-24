@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Hello World!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Last update on Jun, 24th, 2022.
